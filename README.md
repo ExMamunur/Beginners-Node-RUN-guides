@@ -4,4 +4,5 @@
 <pre>wsl --list --online</pre>
 <pre>wsl --install -d Ubuntu-24.04</pre>
 <pre>sudo apt update && sudo apt full-upgrade -y</pre>
+<h1>How to Install & setup docker</h1>
 
