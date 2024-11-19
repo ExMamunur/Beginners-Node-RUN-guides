@@ -14,6 +14,5 @@ Payment: Crypto Friendly
 (1) https://shell.cloud.google.com/?hl=en_US&fromcloudshell=true&show=terminal
 
 (2) https://gitpod.io/workspaces
-
 (3) https://play.google.com/store/apps/details?id=com.termux
 
