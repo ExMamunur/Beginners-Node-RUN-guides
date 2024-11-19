@@ -2,6 +2,6 @@
 
 <pre>wsl --install --no-distribution</pre>
 <pre>wsl --list --online</pre>
-wsl --install -d Ubuntu-24.04
-sudo apt update && sudo apt full-upgrade -y
+<pre>wsl --install -d Ubuntu-24.04</pre>
+<pre>sudo apt update && sudo apt full-upgrade -y</pre>
 
