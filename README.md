@@ -8,6 +8,7 @@
 Download link: https://www.docker.com/products/docker-desktop
 <h1>How to buy/use vps</h1>
 Link: https://pq.hosting/?from=893755
+Putty: https://www.putty.org
 
 Payment: Crypto Friendly
 <h1>How to use any terminals</h1>
