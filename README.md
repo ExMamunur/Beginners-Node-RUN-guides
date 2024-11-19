@@ -10,7 +10,6 @@ Download link: https://www.docker.com/products/docker-desktop
 Link: https://pq.hosting/?from=893755
 
 Payment: Crypto Friendly
-
 Putty: https://www.putty.org
 
 <h1>How to use any terminals</h1>
