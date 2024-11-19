@@ -10,4 +10,5 @@ Download link: https://www.docker.com/products/docker-desktop
 Link: https://pq.hosting/?from=893755
 
 Payment: Crypto Friendly
+<h1>How to use any terminals</h1>
 
