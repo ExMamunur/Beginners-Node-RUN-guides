@@ -11,4 +11,7 @@ Link: https://pq.hosting/?from=893755
 
 Payment: Crypto Friendly
 <h1>How to use any terminals</h1>
+(1) https://shell.cloud.google.com/?hl=en_US&fromcloudshell=true&show=terminal
+(2) https://gitpod.io/workspaces
+(3) https://play.google.com/store/apps/details?id=com.termux
 
