@@ -13,7 +13,7 @@ Payment: Crypto Friendly
 
 Putty: https://www.putty.org
 
-<h1>How to use any terminals</h1>
+<h1>How to use any free terminals</h1>
 (1) https://shell.cloud.google.com/?hl=en_US&fromcloudshell=true&show=terminal
 
 (2) https://gitpod.io/workspaces
