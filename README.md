@@ -34,18 +34,6 @@ curl -L https://go.dev/dl/go1.22.3.linux-amd64.tar.gz | sudo tar -xzf - -C /usr/
 echo 'export PATH=$PATH:/usr/local/go/bin:$HOME/go/bin' >> $HOME/.bash_profile
 source .bash_profile
 go version</pre>
-lsof, ufw
-<pre># ports in-use
-lsof -i -P -n | grep LISTEN
-
-# What process is using port 80
-lsof -i :80
-
-# Open ports for external usage
-sudo ufw allow <port>
-
-# Example: Open port 3000
-sudo ufw allow 3000</pre>
 htop
 <pre># Install
 sudo apt install htop
