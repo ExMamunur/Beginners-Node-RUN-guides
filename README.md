@@ -138,3 +138,10 @@ sudo ufw allow <port>
 sudo ufw allow 3000
 ```
 
+git
+
+```console
+# Transfer a github repository into linux
+git clone https://github.com/FEdanish/Beginners-Node-RUN-guides
+```
+
