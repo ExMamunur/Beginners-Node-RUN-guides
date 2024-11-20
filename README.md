@@ -145,3 +145,15 @@ git
 git clone https://github.com/FEdanish/Beginners-Node-RUN-guides
 ```
 
+Go to home , root directory
+
+```console
+cd
+```
+
+Close screen
+
+```console
+CTRL + A + D
+```
+
