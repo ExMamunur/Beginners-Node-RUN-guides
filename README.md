@@ -157,9 +157,6 @@ Close screen
 CTRL + A + D
 ```
 
-<h1>How to solve any errors (Self dependent)<h1/>
-
-
 (1) ChatGPT: https://chatgpt.com
 
 
