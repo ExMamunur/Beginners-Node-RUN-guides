@@ -28,7 +28,9 @@ Putty: https://www.putty.org
 (3) https://play.google.com/store/apps/details?id=com.termux
 <h1>Learn About Basic Commands/Packages</h1>
 Before any installation, you must update your packages
-<pre>sudo apt-get update && sudo apt-get upgrade -y</pre>
+```console
+sudo apt-get update && sudo apt-get upgrade -y
+```
 Main Packages
 <pre>sudo apt install curl iptables build-essential git wget lz4 jq make gcc nano automake autoconf tmux htop nvme-cli pkg-config libssl-dev libleveldb-dev tar clang bsdmainutils ncdu unzip libleveldb-dev  -y</pre>
 Python3, pip
