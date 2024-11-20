@@ -30,18 +30,3 @@ Python3, pip
 sudo apt install -y python3-pip
 sudo apt install pip
 sudo apt install -y build-essential libssl-dev libffi-dev python3-dev</pre>
-Go
-```console
-  sudo rm -rf /usr/local/go
-curl -L https://go.dev/dl/go1.22.3.linux-amd64.tar.gz | sudo tar -xzf - -C /usr/local
-echo 'export PATH=$PATH:/usr/local/go/bin:$HOME/go/bin' >> $HOME/.bash_profile
-source .bash_profile
-go version
-  ```
-htop
-```console
-# Install
-sudo apt install htop
-# Run
-htop
-```
