@@ -35,9 +35,15 @@ sudo apt-get update && sudo apt-get upgrade -y
 
 Main Packages
 
-<pre>sudo apt install curl iptables build-essential git wget lz4 jq make gcc nano automake autoconf tmux htop nvme-cli pkg-config libssl-dev libleveldb-dev tar clang bsdmainutils ncdu unzip libleveldb-dev  -y</pre>
+```console
+sudo apt install curl iptables build-essential git wget lz4 jq make gcc nano automake autoconf tmux htop nvme-cli pkg-config libssl-dev libleveldb-dev tar clang bsdmainutils ncdu unzip libleveldb-dev  -y
+```
+
 Python3, pip
-<pre>## Python 3.8 Pip, Python3 Install
+
+```console
+## Python 3.8 Pip, Python3 Install
 sudo apt install -y python3-pip
 sudo apt install pip
-sudo apt install -y build-essential libssl-dev libffi-dev python3-dev</pre>
+sudo apt install -y build-essential libssl-dev libffi-dev python3-dev
+```
