@@ -37,6 +37,5 @@ go version</pre>
 htop
 <pre># Install
 sudo apt install htop
-
 # Run
 htop</pre>
